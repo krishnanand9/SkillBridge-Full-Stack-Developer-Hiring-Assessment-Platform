@@ -1035,6 +1035,3 @@ Interested in building scalable web applications, AI-powered products, and intel
 ---
 
 ⭐ If you find this project useful, consider giving the repository a star.
-#   S k i l l B r i d g e - F u l l - S t a c k - D e v e l o p e r - H i r i n g - A s s e s s m e n t - P l a t f o r m  
- #   S k i l l B r i d g e - F u l l - S t a c k - D e v e l o p e r - H i r i n g - A s s e s s m e n t - P l a t f o r m  
- 
